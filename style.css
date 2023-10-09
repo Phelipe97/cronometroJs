@@ -1,0 +1,31 @@
+body{
+    background-image: url('imagens/yuji-sukuna.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+    text-align: center;
+}
+h1{
+    color: white;
+}
+button{
+    width: 6em;
+    height: 2.5em;
+    color: white;
+}
+button:hover{
+    width: 6.5em;
+    height: 3em;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.iniciar-btn{
+    background-color: rgb(7, 196, 33);
+}
+.pausar-btn{
+    background-color: rgb(189, 189, 189);
+}
+.parar-btn{
+    background-color: rgb(226, 61, 61);
+}
