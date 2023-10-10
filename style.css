@@ -1,7 +1,8 @@
 body{
-    background-image: url('imagens/yuji-sukuna.jpeg');
+    background-image: url('imagens/sukuna-yuji.png');
+    background-color:#A23237;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size:cover
 }
 div{
     text-align: center;
